@@ -1,4 +1,4 @@
 numpy==1.26.2
-matplotlib
-ipywidgets
-IPython
+matplotlib==3.9.2
+ipywidgets==8.1.5
+IPython==8.18.1
